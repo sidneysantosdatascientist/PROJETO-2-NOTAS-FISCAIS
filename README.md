@@ -4,7 +4,7 @@ Este repositório contém um script em Python para processar arquivos XML de Not
 
 ---
 
-## 🛠 Funcionalidades
+##  Funcionalidades
 
 - **Leitura de arquivos XML de NF-e**: Lê arquivos XML localizados na pasta `nfs/`.
 - **Extração de dados principais**: Extrai informações como:
@@ -17,6 +17,6 @@ Este repositório contém um script em Python para processar arquivos XML de Not
 
 ---
 
-## 📂 Estrutura do Projeto
+
 
 
